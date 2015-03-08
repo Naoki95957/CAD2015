@@ -1,0 +1,21 @@
+*.stl
+*.tmp
+*/OldVersions/
+*/lockfile.lck
+*/Thumbs.db
+*.htm
+*.html
+*.STEP
+*.dwfx
+*.cmb.gz
+*.stp
+*.png
+*.bmp
+*.jpg
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+CDR Prep/
